@@ -1,5 +1,5 @@
 body{
-  background-color: #F398BE;
+  background-color: #01fda9;
 }
 
 .box{
@@ -25,7 +25,7 @@ body{
 }
 
 .text{
-  color: whitesmoke;
+  color: rgb(26, 0, 0);
   border: none;
   background: none;
   float: left;
